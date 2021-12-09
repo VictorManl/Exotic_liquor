@@ -1,0 +1,154 @@
+ .logo_cabecera {
+    margin-top: 1.9%;
+    margin-left: 40%;
+  }
+
+  .redes_sociales {
+    margin-top: -15%;
+    margin-left: 1%;
+  }
+
+  .contactanos {
+    margin-top: -14%;
+    margin-left: 1.8%;
+  }
+
+  .apoyado {
+    margin-top: -15%;
+    margin-left: 82%;
+  }
+
+  .user {
+    margin-top: -14.9%;
+    margin-left: 95%;
+  }
+
+  .menu__conteiner {
+    width: 90%;
+    max-width: 1360px;
+  }
+
+  .menu__link {
+    padding: 0 60px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+
+  .menu__link--inside {
+    padding: 15px 20px 15px 20px;
+  }
+
+  .menu__nestings {
+    left: 60px;
+    width: 240px;
+  }
+
+  .menu__nestings_2 {
+    left: 60px;
+    width: 240px;
+  }
+
+  .IbagueI{
+    margin-top: 4.5%;
+    margin-left: 80px;
+  }
+
+  .P2{
+    display: flex;
+    align-items: right;
+    text-align: justify;
+    width: 45%;
+    margin-left: 53%;
+    margin-top: -725px;
+    border: 1px solid #999;
+    padding: 10px;
+      border-radius: 10px;
+  }
+
+  .ibague1{
+    margin-top: 50px;
+    margin-left: 55%;
+  }
+
+  /* slider */
+  .slider {
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 550px;
+  }
+  .slider img {
+    width: 950px;
+    height: 550px;
+    border-radius: 40px;
+  }
+  .linea {
+    margin-top: 80px;
+    width: 950px;
+    margin-left: 15px;
+    height: 5px;
+    background-color: #d09f50;
+  }
+  /* descripcion */
+  .container {
+    width: 100%;
+    overflow: hidden;
+  }
+  .item {
+    margin: 5rem;
+    padding: 20px;
+    float: left;
+  }
+  .title {
+    display: inline-block;
+    margin-top: 4%;
+    font-size: 18px;
+  }
+  #imagen > a > img {
+    width: 300px;
+    height: 300px;
+    margin-left: 1%;
+    border-radius: 20px;
+  }
+  .texto {
+    color: black;
+    margin-top: 2%;
+    text-align: justify;
+    width: 39%;
+    font-size: 14px;
+  }
+  .lineaP {
+    margin-top: 100px;
+    width: 950px;
+    margin-left: 30px;
+    height: 5px;
+    background-color: #d09f50;
+  }
+  /* Tarjetas*/
+  .titulo {
+    margin-left: 38%;
+  }
+}
+ /* footer*/
+  footer {
+    height: 175px;
+  }
+
+  .redes_socialesF {
+    margin-top: -10%;
+    margin-left: 85%;
+  }
+
+  .contactanosF {
+    margin-top: -9%;
+    margin-left: 1.8%;
+    font-size: 22px;
+  }
+
+  .logo_pie {
+    margin-left: 40%;
+  }
+
+  .frase {
+    margin-left: 34%;
+  }

@@ -1,0 +1,132 @@
+
+  .logo_cabecera {
+    margin-top: 1.9%;
+    margin-left: 40%;
+  }
+
+  .redes_sociales {
+    margin-top: -15%;
+    margin-left: 1%;
+  }
+
+  .contactanos {
+    margin-top: -14%;
+    margin-left: 1.8%;
+  }
+
+  .apoyado {
+    margin-top: -15%;
+    margin-left: 82%;
+  }
+
+  .user {
+    margin-top: -14.9%;
+    margin-left: 95%;
+  }
+
+  .menu__conteiner {
+    width: 90%;
+    max-width: 1360px;
+  }
+
+  .menu__link {
+    padding: 0 60px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+
+  .menu__link--inside {
+    padding: 15px 20px 15px 20px;
+  }
+
+  .menu__nestings {
+    left: 60px;
+    width: 240px;
+  }
+
+  .menu__nestings_2 {
+    left: 60px;
+    width: 240px;
+  }
+  .titulomision {
+    margin-top: 50px;
+    margin-bottom: -5px;
+    margin-left: 250px;
+    margin-right: 50px;
+  }
+
+  .titulovision {
+    margin-top: 10px;
+    margin-bottom: -5px;
+    margin-left: 250px;
+    margin-right: 50px;
+  }
+
+  .mision {
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 20;
+    padding: 10px;
+  }
+
+  .vision {
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+
+  .Calidad {
+    margin-top: 30px;
+    margin-left: 250px;
+    padding: 10px;
+  }
+
+  .parrafo {
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+
+  .linea {
+    margin-top: 80px;
+    width: 1300px;
+    margin-left: 50px;
+    height: 5px;
+    background-color: #d09f50;
+  }
+
+  /* footer*/
+  footer {
+    height: 175px;
+  }
+
+  .redes_socialesF {
+    margin-top: -10%;
+    margin-left: 85%;
+  }
+
+  .contactanosF {
+    margin-top: -9%;
+    margin-left: 1.8%;
+    font-size: 22px;
+  }
+
+  .logo_pie {
+    margin-left: 40%;
+  }
+
+  .frase {
+    margin-left: 34%;
+  }

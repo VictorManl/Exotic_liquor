@@ -1,0 +1,11 @@
+.ingresar {
+    width: 320px;
+    height: 420px;
+    background-color: black;
+    margin-left: -500px;
+    margin-top: -120px;
+    color: white;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 25px;
+  }

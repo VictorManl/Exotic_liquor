@@ -1,0 +1,20 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.fontFamily": "'JetBrains Mono', sans",
+    "editor.wordWrap": "on",
+    "editor.insertSpaces":true,
+    "emmet.syntaxProfiles":{
+        "javascript":"html"
+    },
+    "emmet.includeLanguages": {
+        "javascript":"html"
+    },
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "editor.formatOnPaste":true,
+    "editor.formatOnSave": true,
+
+
+
+}

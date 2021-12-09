@@ -1,0 +1,102 @@
+.logo_cabecera {
+  margin-top: 1.9%;
+  margin-left: 38%;
+}
+.redes_sociales {
+  margin-top: -13%;
+  margin-left: 1%;
+}
+.contactanos {
+  margin-top: -13%;
+  margin-left: 1.8%;
+}
+.apoyado {
+  margin-top: -12%;
+  margin-left: 82%;
+}
+.user {
+  margin-top: -12%;
+  margin-left: 94%;
+}
+.menu__conteiner {
+  width: 83%;
+  max-width: 1370px;
+}
+.menu__link {
+  padding: 0 60px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+.menu__link--inside {
+  padding: 15px 20px 15px 20px;
+}
+.menu__nestings {
+  left: 55px;
+  width: 230px;
+}
+.titulo {
+  margin-top: 40px;
+  margin-left: 80px;
+  text-align: left;
+}
+.primera_imagen {
+  margin-top: 30px;
+  margin-left: 80px;
+  width: 500px;
+  height: 300px;
+}
+.parrafo {
+  margin-top: -300px;
+  width: 50%;
+  margin-left: 47%;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 10px;
+}
+.separador1 {
+  margin-top: 120px;
+  width: 1150px;
+  margin-left: 100px;
+  height: 5px;
+  background-color: #d09f50;
+}
+.segunda_imagen {
+  margin-left: -450px;
+  margin-top: 50px;
+  width: 500px;
+  height: 300px;
+}
+.parrafo2 {
+  width: 650px;
+  margin-top: -250px;
+  margin-left: 35%;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 10px;
+}
+.titulo2 {
+  margin-top: 40px;
+  margin-left: 80px;
+  text-align: left;
+}
+footer {
+  height: 175px;
+}
+.redes_socialesF {
+  margin-top: -8%;
+  margin-left: 85%;
+}
+.contactanosF {
+  margin-top: -8%;
+  margin-left: 1.8%;
+  font-size: 22px;
+}
+.logo_pie {
+  margin-left: 40%;
+}
+.frase {
+  margin-left: 36%;
+}
