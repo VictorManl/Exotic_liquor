@@ -156,15 +156,13 @@ main {
   width: 350px;
   height: 350px;
   margin-top: 50px;
-  margin-left: 100px;
+  margin-left: 250px;
 }
 
 .p2 {
-  display: flex;
-  text-align: justify;
   width: 45%;
   margin-left: 52%;
-  margin-top: -55%;
+  margin-top: -26.5%;
   border: 1px solid #999;
   padding: 10px;
   border-radius: 10px;
