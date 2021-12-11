@@ -29,8 +29,8 @@ window.onscroll = function(){
 if(screen.width < 1030){
 	document.write('<link rel="stylesheet" href="Responisve/1030/Index.css"></link>');
 }
-else if(screen.width < 1280){
-	document.write('<link rel="stylesheet" href=""></link>');
+else if(screen.width < 1290){
+	document.write('<link rel="stylesheet" href="Responisve/1280/Index.css"></link>');
 }
 else if(screen.width < 1380){
 	document.write('<link rel="stylesheet" href="Responisve/1380/Index.css"></link>'); 
