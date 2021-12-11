@@ -48,38 +48,35 @@
   left: 60px;
   width: 240px;
 }
-.Pcontacto {
-  width: 60%;
-  padding: 10px;
-  border: 1px solid black;
-  border-radius: 10px;
-  margin-left: 70px;
+
+.p1 {
+  margin-top: 2%;
+  margin-left: 8%;
+  text-align: justify;
+  width: 39%;
+  font-size: 30 px;
 }
-.lineaC {
-  margin-top: 250px;
-  width: 1300px;
-  margin-left: 30px;
-  height: 5px;
-  background-color: #d09f50;
+.p2 {
+  margin-top: -530px;
+  text-align: justify;
+  width: 39%;
+  font-size: 30 px;
+}
+.ibague1 {
+  margin-top: 5%;
+  margin-left: 8%;
+  margin-right: 5%;
+}
+.IbaguéI {
+  margin-left: 53.5%;
+  margin-right: 25%;
+  margin-bottom: -10%;
+}
+/* Tarjetas*/
+.titulo {
+  margin-left: 38%;
 }
 
-.informacion_lugar {
-  float: left;
-  width: 45%;
-  border: 1px solid black;
-  border-radius: 10px;
-  padding: 10px;
-  margin-top: 40px;
-  margin-left: 50px;
-}
-.Container_map {
-  margin-top: 40px;
-  margin-left: 800px;
-}
-.redes_sociales_black {
-  float: right;
-  margin-right: 10%;
-}
 /* footer*/
 footer {
   height: 175px;
