@@ -35,13 +35,13 @@ else if(screen.width < 1280){
 else if(screen.width < 1380){
 	document.write('<link rel="stylesheet" href="Responisve/1380/Index.css"></link>'); 
 }
-else if(screen.width < 1400){
+else if(screen.width < 1410){
 	document.write('<link rel="stylesheet" href="Responisve/1400/Index.css"></link>'); 
 }
-else if(screen.width < 1440){
+else if(screen.width < 1450){
 	document.write('<link rel="stylesheet" href="Responisve/1440/Index.css"></link>');
 }
-else if(screen.width < 1600){
+else if(screen.width < 1610){
 	document.write('<link rel="stylesheet" href="Responisve/1600/Index.css"></link>');
 }
 else if(screen.width < 1690){

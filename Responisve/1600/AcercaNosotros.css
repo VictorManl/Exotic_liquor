@@ -40,13 +40,13 @@
 }
 
 .menu__nestings {
-  left: 100px;
+  left: 85px;
   width: 240px;
 }
 
 .menu__nestings_2 {
-  left: 60px;
-  width: 240px;
+  left: 80px;
+  width: 200px;
 }
 
 .parrafo {
@@ -74,21 +74,19 @@
 }
 
 .parrafo2 {
-  width: 45%;
-  margin-top: -300px;
-  margin-left: 50%;
+  width: 300%;
+  margin-top: -120%;
+  margin-left: 35%;
   border: 1px solid #999;
   border-radius: 10px;
   text-align: justify;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
+  font-size: 20px;
 }
-
 .segunda_imagen {
-  margin-top: 2%;
-  margin-left: 5%;
-  margin-right: 30%;
+  margin-left: -250%;
+  margin-top: 50px;
 }
-
 .titulo2 {
   margin-top: 40px;
   margin-bottom: 20px;
