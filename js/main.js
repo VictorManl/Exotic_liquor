@@ -44,6 +44,6 @@ else if(screen.width < 1440){
 else if(screen.width < 1600){
 	document.write('<link rel="stylesheet" href="Responisve/1600/Index.css"></link>');
 }
-else if(screen.width < 1680){
+else if(screen.width < 1690){
 	document.write('<link rel="stylesheet" href="Responisve/1680/Index.css"></link>');
 }
