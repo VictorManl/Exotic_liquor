@@ -1,8 +1,8 @@
 if(screen.width < 1030){
 	document.write('<link rel="stylesheet" href="Responisve/1030/AcercaNosotros.css"></link>');
 }
-else if(screen.width < 1280){
-	document.write('<link rel="stylesheet" href=""></link>');
+else if(screen.width < 1290){
+	document.write('<link rel="stylesheet" href="Responisve/1280/AcercaNosotros></link>');
 }
 else if(screen.width < 1380){
 	document.write('<link rel="stylesheet" href="Responisve/1380/AcercaNosotros.css"></link>'); 

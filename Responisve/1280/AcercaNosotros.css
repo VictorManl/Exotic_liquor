@@ -1,0 +1,86 @@
+.logo_cabecera {
+  margin-top: 1.9%;
+  margin-left: 40%;
+}
+.redes_sociales {
+  margin-top: -15%;
+  margin-left: 1%;
+}
+.contactanos {
+  margin-top: -14%;
+  margin-left: 1.8%;
+}
+.apoyado {
+  margin-top: -16%;
+  margin-left: 82%;
+}
+.user {
+  margin-top: -16%;
+  margin-left: 95%;
+}
+.menu__conteiner {
+  width: 90%;
+  max-width: 1360px;
+}
+.menu__link {
+  padding: 0 60px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+.menu__link--inside {
+  padding: 15px 20px 15px 20px;
+}
+.menu__nestings {
+  left: 60px;
+  width: 240px;
+}
+.parrafo {
+  margin-top: -300px;
+  width: 45%;
+  margin-left: 50%;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 10px;
+}
+.separador1 {
+  margin-top: 160px;
+  width: 1150px;
+  margin-left: 60px;
+  height: 5px;
+  background-color: #d09f50;
+}
+.parrafo2 {
+  width: 45%;
+  margin-top: -300px;
+  margin-left: 50%;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 10px 10px 10px 10px;
+}
+.titulo2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 80px;
+  text-align: left;
+}
+footer {
+  height: 175px;
+}
+.redes_socialesF {
+  margin-top: -13%;
+  margin-left: 85%;
+}
+.contactanosF {
+  margin-top: -6%;
+  margin-left: 1.8%;
+  font-size: 22px;
+}
+.logo_pie {
+  margin-left: 40%;
+}
+.frase {
+  margin-left: 34%;
+}
