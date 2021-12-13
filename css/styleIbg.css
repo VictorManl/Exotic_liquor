@@ -23,24 +23,12 @@ div > a {
 .redes_sociales {
   position: absolute;
   margin-top: -11%;
-  margin-left: 0.5%;
+  margin-left: 88%;
 }
 .contactanos {
   position: absolute;
   margin-top: -10%;
   margin-left: 1.5%;
-  font-size: 22px;
-}
-.apoyado {
-  position: absolute;
-  margin-top: -11%;
-  margin-left: 88%;
-  font-size: 22px;
-}
-.user {
-  position: absolute;
-  margin-top: -11%;
-  margin-left: 97%;
   font-size: 22px;
 }
 
