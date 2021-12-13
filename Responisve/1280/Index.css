@@ -103,7 +103,6 @@
   height: 450px;
   width: 250px;
   margin: auto;
-  -webkit-perspective: 700;
   margin-bottom: 50px;
 }
 .titulo {
@@ -133,6 +132,10 @@
 .atras {
   transform: rotateY(180deg);
   background-color: gray;
+}
+#boton {
+  bottom: 230px;
+  right: 50px;
 }
 /* footer*/
 footer {

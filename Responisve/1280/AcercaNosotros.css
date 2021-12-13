@@ -29,9 +29,9 @@
   width: 240px;
 }
 .parrafo {
-  margin-top: -300px;
-  width: 45%;
-  margin-left: 50%;
+  margin-top: -900px;
+  width: 100%;
+  margin-left: 10%;
   border: 1px solid #999;
   border-radius: 10px;
   text-align: justify;
@@ -47,7 +47,7 @@
 .parrafo2 {
   width: 350%;
   margin-top: -300px;
-  margin-left: -250%;
+  margin-left: -950%;
   border: 1px solid #999;
   border-radius: 10px;
   text-align: justify;
