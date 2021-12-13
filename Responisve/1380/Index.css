@@ -64,7 +64,7 @@
   margin-left: 40px;
 }
 .producto {
-  font-size: 32px;
+  font-size: 28px;
   margin-left: 44%;
 }
 .title {
@@ -90,6 +90,7 @@
   width: 50%;
   margin-left: 1%;
   font-size: 14px;
+  text-align: justify;
 }
 .lineaP {
   margin-top: 5px;
@@ -125,6 +126,7 @@
   backface-visibility: hidden;
   position: absolute;
 }
+
 .frente > img {
   width: 100%;
   height: 100%;
@@ -132,6 +134,12 @@
 .atras {
   transform: rotateY(180deg);
   background-color: gray;
+}
+.atras > p {
+  text-align: justify;
+  margin-top: 120px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 #boton {
   bottom: 230px;
