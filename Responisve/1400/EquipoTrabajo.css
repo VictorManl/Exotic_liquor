@@ -1,80 +1,68 @@
 .logo_cabecera {
-    margin-top: 1.9%;
-    margin-left: 40%;
-  }
+  margin-top: 1.9%;
+  margin-left: 40%;
+}
 
-  .redes_sociales {
-    margin-top: -15%;
-    margin-left: 1%;
-  }
+.redes_sociales {
+  margin-top: -15%;
+  margin-left: 82%;
+}
 
-  .contactanos {
-    margin-top: -14%;
-    margin-left: 1.8%;
-  }
+.contactanos {
+  margin-top: -14%;
+  margin-left: 1.8%;
+}
 
-  .apoyado {
-    margin-top: -15%;
-    margin-left: 82%;
-  }
+.menu__conteiner {
+  width: 90%;
+  max-width: 1360px;
+}
 
-  .user {
-    margin-top: -14.9%;
-    margin-left: 95%;
-  }
+.menu__link {
+  padding: 0 60px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
 
-  .menu__conteiner {
-    width: 90%;
-    max-width: 1360px;
-  }
+.menu__link--inside {
+  padding: 15px 20px 15px 20px;
+}
 
-  .menu__link {
-    padding: 0 60px;
-    display: flex;
-    height: 100%;
-    align-items: center;
-  }
+.menu__nestings {
+  left: 60px;
+  width: 240px;
+}
 
-  .menu__link--inside {
-    padding: 15px 20px 15px 20px;
-  }
+.menu__nestings_2 {
+  left: 60px;
+  width: 240px;
+}
 
-  .menu__nestings {
-    left: 60px;
-    width: 240px;
-  }
+.image-borde {
+  margin-right: 10%;
+}
 
-  .menu__nestings_2 {
-    left: 60px;
-    width: 240px;
-  }
+/* footer*/
+footer {
+  height: 175px;
+}
 
+.redes_socialesF {
+  margin-top: -10%;
+  margin-left: 85%;
+}
 
-  .image-borde{
-    margin-right: 10%;
-  }
+.contactanosF {
+  margin-top: -9%;
+  margin-left: 1.8%;
+  font-size: 22px;
+}
 
-  }
- /* footer*/
-  footer {
-    height: 175px;
-  }
+.logo_pie {
+  margin-left: 40%;
+}
 
-  .redes_socialesF {
-    margin-top: -10%;
-    margin-left: 85%;
-  }
-
-  .contactanosF {
-    margin-top: -9%;
-    margin-left: 1.8%;
-    font-size: 22px;
-  }
-
-  .logo_pie {
-    margin-left: 40%;
-  }
-
-  .frase {
-    margin-left: 34%;
-  }
+.frase {
+  margin-left: 34%;
+}
