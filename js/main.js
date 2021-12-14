@@ -19,9 +19,9 @@ botonUp = document.getElementById("boton");
 
 window.onscroll = function(){
 	var scroll = document.documentElement.scrollTop;
-	if(scroll > 350){
+	if(scroll > 500){
 		botonUp.style.transform = "scale(1)";
-	}else if(scroll < 350){
+	}else if(scroll < 500){
 		botonUp.style.transform = "scale(0)";
 	}
 	

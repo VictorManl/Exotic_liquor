@@ -274,7 +274,7 @@ main {
 }
 .atras {
   transform: rotateY(180deg);
-  background-color: gray;
+  background-color: rgba(199, 190, 190, 0.993);
 }
 /* boton */
 #boton {
